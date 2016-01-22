@@ -1,0 +1,2 @@
+# qapqlik
+Qlik Analytics Platform
